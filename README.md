@@ -19,7 +19,8 @@ This script prompts the user to choose a pizza size and whether they want pepper
   - Large (L): $25
 - **Pepperoni**:
   - Small (S): Additional $2
-  - Medium (M) and Large (L): Additional $3
+  - Medium (M)
+  - Large (L): Additional $3
 
 ## Example
 
