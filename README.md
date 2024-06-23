@@ -24,6 +24,9 @@ This script prompts the user to choose a pizza size and whether they want pepper
 ## Example
 
 What size pizza do you want? S, M, or L: s
+
 Small pizza (S) is $15.
+
 Do you want pepperoni? Y or N: y
+
 Your total price is $17.
