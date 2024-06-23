@@ -1,4 +1,4 @@
-# Choose pizza.py
+# Choosing pizza.py
 
 This script prompts the user to choose a pizza size and whether they want pepperoni on it. It ensures valid input and calculates the total price accordingly.
 
